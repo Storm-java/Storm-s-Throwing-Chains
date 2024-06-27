@@ -1,2 +1,2 @@
-# Storm-s-Throwing-Chains
+# Storm's Throwing Chains
 Throwing Chain Mod
