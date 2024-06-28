@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: storms_thowing_chains
+Specification-Vendor: StormJava, Turqul
+Specification-Version: 1
+Implementation-Title: Storm-s-Throwing-Chains
+Implementation-Version: 0.0.1-indev+26w24a
+Implementation-Vendor: StormJava, Turqul
+Implementation-Timestamp: 2024-06-28T16:30:40-0400
+
